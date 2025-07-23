@@ -28,5 +28,5 @@ A terminal-based Python game that challenges players to **unscramble 6-letter wo
 
 You can try the game instantly without installing anything:
 
-👉 [Play on Replit]([https://replit.com/@yourusername/word-unscramble-game](https://replit.com/@rtalusani07/Wordle#main.py))
+👉 [Play on Replit](https://replit.com/@rtalusani07/Wordle#main.py)
 Remix the app to play!
