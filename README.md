@@ -14,19 +14,5 @@ A terminal-based Python game that challenges players to **unscramble 6-letter wo
 - 🧩 Word validation against a custom dataset  
 - ⌨️ Interactive command-line interface  
 - 🛠️ Modular structure with multiple functions and logic layers
-
 ---
 
-## 🛠 Technologies Used
-
-- **Python 3**
-- Standard Libraries: `random`, `time`
-
----
-
-## ▶️ Try It Online
-
-You can try the game instantly without installing anything:
-
-👉 [Play on Replit](https://replit.com/@rtalusani07/Wordle#main.py)
-Remix the app to play!
